@@ -7,3 +7,4 @@
 5-listfilesdigitonly : script that display user and group IDs numerically and the hidden files
 6-firstdirectory : script that creates '/tmp/my_first_dirctory'
 7-movethatfile : script that move '/tmp/betty' to /tmp/my_first_directory
+8-firstdelete : script to delete the file betty is in /tmp/my_first_directory
