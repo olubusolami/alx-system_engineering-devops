@@ -12,3 +12,4 @@
 10-back : script changes that the working directory to the previous one
 11-lists : script that list all files including ones with names beginning with a period character which are normally hidden in the current directory and the parent of the working directory and the /boot directory in long format
 12-file_type : script to that prints the type of the file named iamafile
+13-symbolic_link : script that Create a symbolic link to /bin/ls, named __ls__
