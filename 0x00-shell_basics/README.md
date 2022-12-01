@@ -6,3 +6,4 @@
 4-listmorefiles : script that list both the content and the hidden file of the current working directory
 5-listfilesdigitonly : script that display user and group IDs numerically and the hidden files
 6-firstdirectory : script that creates '/tmp/my_first_dirctory'
+7-movethatfile : script that move '/tmp/betty' to /tmp/my_first_directory
