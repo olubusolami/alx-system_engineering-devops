@@ -17,3 +17,4 @@
 18-letteronly : A script that display all lines of the file /etc/ssh/sshd_config starting with a letter.
 16-whatsnext : Script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 19-AZ : script that replace all characters A and c from input to Z and e respectively.
+20-hiago : script that removes all letters c and C from input.
