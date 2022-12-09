@@ -18,3 +18,4 @@
 16-whatsnext : Script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 19-AZ : script that replace all characters A and c from input to Z and e respectively.
 20-hiago : script that removes all letters c and C from input.
+21-reverse : Script that reverse its input.
